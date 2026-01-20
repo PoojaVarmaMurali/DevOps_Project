@@ -1,0 +1,10 @@
+# variable values
+*.tfvars
+
+
+# Editor / OS files
+*.swp
+*.bak
+.DS_Store
+.idea/
+.vscode/
